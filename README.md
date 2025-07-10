@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Ben
+# Hey! 👋 I'm Ben
 Full-stack developer with a bit of an unconventional journey. I discovered my passion wasn't just solving problems - it was building the solutions themselves.
 
 ## 🛠️ What I'm Building
