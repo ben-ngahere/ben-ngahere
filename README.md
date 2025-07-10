@@ -4,7 +4,7 @@ Full-stack developer with a bit of an unconventional journey. I discovered my pa
 ## 🛠️ What I'm Building
 **FONO** - *In Development*  
 Secure communication platform with real-time encrypted messaging. Exploring modern privacy-first design principles.  
-*Tech: React, TypeScript, Node.js, Auth0, PostgreSQL, Docker*
+*Tech: React, TypeScript, Node.js, Auth0, PostgreSQL, Docker, Pusher*
 
 **Fit Quest** - *Live Project*  
 Collaborative fitness RPG that gamifies real-world activity. Served as Agile Facilitator during development.  
