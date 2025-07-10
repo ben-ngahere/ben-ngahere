@@ -22,6 +22,6 @@ Personal thought management app with secure authentication and intuitive organis
 Mountain biking the trails, snowboarding, casual RPG gaming and tinkering with tech setups at home.
 
 ## 🤝 Let's Connect
-Always keen for a chat about tech!
+Always keen for a chat about tech and code!
 
 [LinkedIn](https://linkedin.com/in/ben-ngahere/) • [Email](mailto:ngahereben@gmail.com)
