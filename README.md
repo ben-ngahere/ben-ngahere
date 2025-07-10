@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey there! 👋 I'm Ben
+Full-stack developer with a bit of an unconventional journey. I discovered my passion wasn't just solving problems - it was building the solutions themselves.
 
-<!--
-**ben-ngahere/ben-ngahere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ What I'm Building
+**FONO** - *In Development*  
+Secure communication platform with real-time encrypted messaging. Exploring modern privacy-first design principles.  
+*Tech: React, TypeScript, Node.js, Auth0, PostgreSQL, Docker*
 
-Here are some ideas to get you started:
+**Fit Quest** - *Live Project*  
+Collaborative fitness RPG that gamifies real-world activity. Served as Agile Facilitator during development.  
+[Check it out →](https://fitquest-wupo.onrender.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**thunk.** - *Complete*  
+Personal thought management app with secure authentication and intuitive organisation.
+
+## 🌱 Currently Exploring
+- DevOps practices and deployment automation
+- Containerisation with Docker
+- Data privacy and sovereignty in web applications
+
+## 🏔️ When I'm Not Coding
+Mountain biking the trails, snowboarding, casual RPG gaming and tinkering with tech setups at home.
+
+## 🤝 Let's Connect
+Always keen for a chat about tech!
+
+[LinkedIn](https://linkedin.com/in/ben-ngahere/) • [Email](mailto:ngahereben@gmail.com)
