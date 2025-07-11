@@ -14,10 +14,10 @@ Collaborative fitness RPG that gamifies real-world activity. Served as Agile Fac
 Personal thought management app with secure authentication and intuitive organisation.
 
 ## 🌱 Currently Exploring
-- DevOps practices and deployment automation
-- Containerisation with Docker
-- AWS Fundamentals
-- Data privacy and sovereignty in web applications
+- DevOps practices that work in the real world
+- Docker containerisation - because deployment shouldn't be scary
+- AWS fundamentals for cloud-native applications
+- Data sovereignty - because who controls our data matters
 
 ## 🤝 Let's Connect
 Always keen for a chat about tech and code!
