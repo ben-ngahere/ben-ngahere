@@ -16,10 +16,8 @@ Personal thought management app with secure authentication and intuitive organis
 ## 🌱 Currently Exploring
 - DevOps practices and deployment automation
 - Containerisation with Docker
+- AWS Fundamentals
 - Data privacy and sovereignty in web applications
-
-## 🏔️ When I'm Not Coding
-Mountain biking the trails, snowboarding, casual RPG gaming and tinkering with tech setups at home.
 
 ## 🤝 Let's Connect
 Always keen for a chat about tech and code!
