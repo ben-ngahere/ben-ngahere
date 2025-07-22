@@ -14,7 +14,7 @@ Secure communication platform with real-time encrypted messaging. Exploring mode
 ### **Fit Quest** - *Live*
 Fitness RPG built in 7 days. Served as Agile Facilitator for the team.
 
-**Tech:** React, TypeScript, Node.js, Auth0, PostgreSQL, GSAP, TailwindCSS
+**Tech:** React, TypeScript, Node.js, Auth0, Knex, SQLite, GSAP, TailwindCSS
 
 [Check it out here →](https://fitquest-wupo.onrender.com/)
 
@@ -23,7 +23,7 @@ Fitness RPG built in 7 days. Served as Agile Facilitator for the team.
 ### **thunk.** - *Live*
 Personal thought management app with secure authentication. My first full-stack CRUD app.
 
-**Tech:** React, TypeScript, Node.js, Auth0, PostgreSQL, GSAP, Motion, BulmaCSS
+**Tech:** React, TypeScript, Node.js, Auth0, Knex, SQLite, GSAP, Motion, BulmaCSS
 
 [Check it out here →](https://thunk-jx31.onrender.com/)
 
