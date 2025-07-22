@@ -31,10 +31,11 @@ Personal thought management app with secure authentication. My first full-stack 
 
 ## 🌱 Currently Exploring
 
+- Data sovereignty - because who controls our data matters
 - DevOps practices
 - Docker containerisation - because deployment shouldn't be scary
 - AWS fundamentals for cloud-native applications
-- Data sovereignty - because who controls our data matters
+
 
 ## 🤝 Let's Connect
 
