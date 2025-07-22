@@ -45,4 +45,4 @@ Always keen for a chat about tech and code!
 
 ---
 
-![Profile Views](https://komarev.com/ghpv/?username=ben-ngahere&color=blueviolet)
+![Profile Views](https://komarev.com/ghpv/?username=ben-ngahere&color=green)
