@@ -14,7 +14,7 @@ Collaborative fitness RPG that gamifies real-world activity. Served as Agile Fac
 Personal thought management app with secure authentication and intuitive organisation.
 
 ## 🌱 Currently Exploring
-- DevOps practices that work in the real world
+- DevOps practices
 - Docker containerisation - because deployment shouldn't be scary
 - AWS fundamentals for cloud-native applications
 - Data sovereignty - because who controls our data matters
