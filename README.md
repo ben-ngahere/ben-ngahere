@@ -12,7 +12,7 @@ Secure communication platform with real-time encrypted messaging. Exploring mode
 ---
 
 ### **Fit Quest** - *Live*
-Fitness RPG built in 7 days. Served as Agile Facilitator for the team.
+Real-world fitness RPG built in 7 days. Served as Agile Facilitator for the team.
 
 **Tech:** React, TypeScript, Node.js, Auth0, Knex, SQLite, GSAP, TailwindCSS
 
