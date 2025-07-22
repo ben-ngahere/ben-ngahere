@@ -4,14 +4,17 @@ Full-stack developer with a bit of an unconventional journey. I discovered my pa
 ## 🛠️ What I'm Building
 **FONO** - *In Development*  
 Secure communication platform with real-time encrypted messaging. Exploring modern privacy-first design principles.  
-*Tech: React, TypeScript, Node.js, Auth0, PostgreSQL, Docker, Pusher*
+*Tech: React, TypeScript, Node.js, Auth0, PostgreSQL, Docker, Pusher, TailwindCSS*
 
-**Fit Quest** - *Live Project*  
-Collaborative fitness RPG that gamifies real-world activity. Served as Agile Facilitator during development.  
-[Check it out →](https://fitquest-wupo.onrender.com/)
+**Fit Quest** - *Live*  
+Fitness RPG built in 7 days. Served as Agile Facilitator for the team.
+*Tech: React, TypeScript, Node.js, Auth0, PostgreSQL, GSAP, TailwindCSS*
+[Check it out here →](https://fitquest-wupo.onrender.com/)
 
-**thunk.** - *Complete*  
-Personal thought management app with secure authentication and intuitive organisation.
+**thunk.** - *Live*  
+Personal thought management app with secure authentication. My first full-stack CRUD app
+*Tech: React, TypeScript, Node.js, Auth0, PostgreSQL, GSAP, Motion, BulmaCSS*
+[Check it out here →](https://thunk-jx31.onrender.com/)
 
 ## 🌱 Currently Exploring
 - DevOps practices
