@@ -1,5 +1,5 @@
 # Kia Ora! 👋 I'm Ben
-Full-stack developer with a bit of an unconventional journey. I discovered my passion wasn't just solving problems - it was building the solutions themselves.
+Full-stack developer with a bit of an unconventional journey. I discovered my passion wasn't just solving problems - it was building the solutions themselves
 
 ## 🌐 Portfolio
 Check it out at **[ben-ngahere.vercel.app](https://ben-ngahere.vercel.app)**
@@ -7,18 +7,23 @@ Check it out at **[ben-ngahere.vercel.app](https://ben-ngahere.vercel.app)**
 ## 🛠️ What I'm Building
 ### **FONO** - *In Development*
 Secure communication platform with real-time encrypted messaging. Exploring modern privacy-first design principles.
+
 **Tech:** React, TypeScript, Node.js, Auth0, PostgreSQL, Docker, Pusher, TailwindCSS
 
 ---
 ### **Fit Quest** - *Live*
 Real-world fitness RPG built in 7 days. Served as Agile Facilitator for the team.
+
 **Tech:** React, TypeScript, Node.js, Auth0, Knex, SQLite, GSAP, TailwindCSS
+
 [Check it out here →](https://fitquest-wupo.onrender.com/)
 
 ---
 ### **thunk.** - *Live*
 Digital notebook app with secure authentication. My first full-stack CRUD app.
+
 **Tech:** React, TypeScript, Node.js, Auth0, Knex, SQLite, GSAP, Motion, BulmaCSS
+
 [Check it out here →](https://thunk-jx31.onrender.com/)
 
 ---
