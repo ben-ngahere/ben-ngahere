@@ -2,7 +2,7 @@
 Full-stack developer with a bit of an unconventional journey. I discovered my passion wasn't just solving problems - it was building the solutions themselves
 
 ## 🌐 Portfolio
-Check it out **[Ben Ngahere | Full-Stack Dev](https://ben-ngahere.vercel.app)**
+**[Ben Ngahere | Full-Stack Dev](https://ben-ngahere.vercel.app)**
 
 ## 🛠️ What I'm Building
 ### **FONO** - *In Development*
